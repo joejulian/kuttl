@@ -1,5 +1,5 @@
 ---
-kep-number: 0
+kep-number: 5
 short-desc: Overview of providing KUTTL for use as a Go library
 title: KUTTL as a Library
 authors:
@@ -8,12 +8,10 @@ authors:
 owners:
   - "@mpereira"
   - "@jbarrick-mesosphere"
-editor: TBD
+editor: "@kensipe"
 creation-date: 2020-02-13
-last-updated: 2020-02-13
+last-updated: 2020-02-25
 status: provisional
-see-also:
-  - KEP-2
 ---
 
 # KUTTL as a Library
